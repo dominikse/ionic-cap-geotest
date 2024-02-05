@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'de.semasol.geotest',
   appName: 'geo-test',
   webDir: 'www',
   server: {
