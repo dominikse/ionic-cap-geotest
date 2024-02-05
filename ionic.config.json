@@ -1,0 +1,7 @@
+{
+  "name": "geo-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
